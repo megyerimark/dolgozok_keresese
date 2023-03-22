@@ -1,0 +1,6 @@
+[submodule "emp_api"]
+	path = emp_api
+	url = https://github.com/megyerimark/emp_api
+[submodule "empweb"]
+	path = empweb
+	url = https://github.com/megyerimark/empweb
